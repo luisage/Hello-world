@@ -1,2 +1,2 @@
-# Hello-world!!
-Hola, esta es otra edición
+# Hello-world!
+Hola, esta segunda edición
